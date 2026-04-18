@@ -36,7 +36,7 @@ I am **Muhammad Ibrahim Danno**, an aspiring **Application Developer (IHK)** cur
 
 ###  Kontakt | Let's Connect | تواصل معي
 -  **Location:** Fellbach, Baden-Württemberg, Germany 
--  **E-Mail:** m.ibrahim.danno@gmail.com
+-  **E-Mail:** m.i.danno.dev@gmail.com
 -  **LinkedIn:**
 -  **Exercism Profile:**
 
