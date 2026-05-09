@@ -1,9 +1,9 @@
 #  Hallo | Welcome | أهلاً بك
 
 ###  Über mich | About Me | من أنا
-Ich bin **Muhammad Ibrahim Danno**, ein angehender **Fachinformatiker für Anwendungsentwicklung (IHK)** in der Umschulung bei GFN Stuttgart. Ich habe den ersten Teil meiner Abschlussprüfung (AP1) bereits erfolgreich bestanden und suche derzeit nach einem **Pflichtpraktikum** ab dem 21.05.2026 bzw **Ausbildung "Betriebliche Umschulung" als Fachinformatiker**. Mein **Fokus** an **Clean Code und Security-First Mindset**.
+Ich bin **Muhammad Ibrahim Danno**, ein angehender **Fachinformatiker für Anwendungsentwicklung (IHK)** in der Umschulung bei GFN Stuttgart. Ich habe den ersten Teil meiner Abschlussprüfung (AP1) bereits erfolgreich bestanden und suche derzeit nach einem **Pflichtpraktikum** ab dem 21.05.2026 bzw **Ausbildung "Betriebliche Umschulung" als Fachinformatiker**. Mein **Fokus** liegt auf **Clean Code und Security-First Mindset**.
 
-I am **Muhammad Ibrahim Danno**, an aspiring **IT Specialist for Application Development (IHK)** currently undergoing retraining at GFN Stuttgart. I have already successfully passed the first part of my final examination (AP1) and am currently seeking a **mandatory internship** starting May 21, 2026, or an **"in-company retraining" position** as an IT Specialist. My **focus** lies in **Clean Code** and a **Security-First mindset**.
+I am **Muhammad Ibrahim Danno**, an aspiring **IT Specialist for Application Development (IHK)** currently undergoing retraining at GFN Stuttgart. I have already successfully passed the first part of my final examination (AP1) and am currently seeking a **mandatory internship** starting May 21, 2026, or an **"in-company retraining" position** as an IT Specialist. My **focus** lies on **Clean Code** and a **Security-First mindset**.
 
 أنا **محمد إبراهيم دانو**، طالب في تخصص **تطوير البرمجيات (Fachinformatik AE)** في شتوتغارت. نجحت في الجزء الأول من امتحان الـ IHK، وأبحث حالياً عن فرصة **تدريب عملي إلزامي** (Praktikum) تبدأ من 21 مايو 2026 كجزء من مساري المهني أو عن **برنامج إعادة تأهيل في إحدى الشركات** كمتخصص في تكنولوجيا المعلومات. **أركز** بشكل أساسي على كتابة أكواد برمجية نظيفة، وأولوية قصوى للأمان.
 
